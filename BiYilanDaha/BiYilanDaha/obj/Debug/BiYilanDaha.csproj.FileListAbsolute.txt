@@ -1,0 +1,10 @@
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.csproj.AssemblyReference.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.Form1.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.Properties.Resources.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.csproj.GenerateResource.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.csproj.CoreCompileInputs.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\bin\Debug\BiYilanDaha.exe.config
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\bin\Debug\BiYilanDaha.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\bin\Debug\BiYilanDaha.pdb
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\BiYilanDaha\BiYilanDaha\obj\Debug\BiYilanDaha.pdb
